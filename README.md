@@ -34,7 +34,7 @@ The report is based on a fictional coffee shop’s sales data and shows key metr
 ---
 
 ## 📁 Files Included
-Screenshot - 
+Screenshot - https://github.com/Ritika007-hub/Coffee-Shop-Report-Dashboard/blob/main/Screenshot%202025-07-30%20131933.png
 
 ---
 
